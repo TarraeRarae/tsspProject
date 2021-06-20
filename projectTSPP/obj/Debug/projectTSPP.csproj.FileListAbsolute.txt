@@ -1,0 +1,6 @@
+/Users/aleksej/Projects/projectTSPP/projectTSPP/bin/Debug/projectTSPP.exe
+/Users/aleksej/Projects/projectTSPP/projectTSPP/bin/Debug/projectTSPP.pdb
+/Users/aleksej/Projects/projectTSPP/projectTSPP/obj/Debug/projectTSPP.csprojAssemblyReference.cache
+/Users/aleksej/Projects/projectTSPP/projectTSPP/obj/Debug/projectTSPP.csproj.CoreCompileInputs.cache
+/Users/aleksej/Projects/projectTSPP/projectTSPP/obj/Debug/projectTSPP.exe
+/Users/aleksej/Projects/projectTSPP/projectTSPP/obj/Debug/projectTSPP.pdb
