@@ -5,10 +5,11 @@ namespace projectTSPP
 {
     class MainClass
     {
-         
+
         private static bool checker = false;
-        
-        public static void CheckerToFalse() {
+
+        public static void CheckerToFalse()
+        {
             checker = false;
         }
 
